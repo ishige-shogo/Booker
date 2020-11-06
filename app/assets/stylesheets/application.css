@@ -39,18 +39,18 @@ p, ol, ul, td {
     line-height: 18px;
     margin: 33px;
 }
-a:-webkit-any-link {
+.btn:-webkit-any-link {
 
     cursor: pointer;
     text-decoration: underline;
 }
-a {
+.btn {
     color: #000;
 }
-a:visited {
+.btn:visited {
     color: #666;
 }
-a:hover{
+.btn:hover{
   background: #000;
   color: #fff;
 }
